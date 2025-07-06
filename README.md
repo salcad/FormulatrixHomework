@@ -89,4 +89,4 @@ Each project includes detailed documentation:
 - Individual README files with specific implementation details
 - Code comments and XML documentation
 - Usage examples and test cases
-- Architecture diagrams and screenshots
+- Architecture and screenshots
