@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingCompetency", "CodingC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryManager", "RepositoryManager\RepositoryManager.csproj", "{2CC22816-D65B-4293-BCA8-F482E28DA12E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryManager.Tests", "RepositoryManager.Tests\RepositoryManager.Tests.csproj", "{EEA090E2-5DE2-478D-9A6C-1B2DD4317C07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2CC22816-D65B-4293-BCA8-F482E28DA12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC22816-D65B-4293-BCA8-F482E28DA12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC22816-D65B-4293-BCA8-F482E28DA12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA090E2-5DE2-478D-9A6C-1B2DD4317C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA090E2-5DE2-478D-9A6C-1B2DD4317C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA090E2-5DE2-478D-9A6C-1B2DD4317C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA090E2-5DE2-478D-9A6C-1B2DD4317C07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
